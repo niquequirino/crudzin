@@ -2,5 +2,5 @@
 o Postman funcionando
 
 ![image](https://github.com/user-attachments/assets/4a956e67-2b85-4016-b110-9d2044ac1e0e)
-o banco funcionando
+o banco de dados funcionando com as infos colocadas
 
